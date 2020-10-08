@@ -1,0 +1,38 @@
+F:\Power Monitoring\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Power Monitoring\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Power Monitoring\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\Power Monitoring\bin\Debug\netcoreapp3.1\Power Monitoring.exe
+F:\Power Monitoring\bin\Debug\netcoreapp3.1\Power Monitoring.deps.json
+F:\Power Monitoring\bin\Debug\netcoreapp3.1\Power Monitoring.runtimeconfig.json
+F:\Power Monitoring\bin\Debug\netcoreapp3.1\Power Monitoring.runtimeconfig.dev.json
+F:\Power Monitoring\bin\Debug\netcoreapp3.1\Power Monitoring.dll
+F:\Power Monitoring\bin\Debug\netcoreapp3.1\Power Monitoring.pdb
+F:\Power Monitoring\bin\Debug\netcoreapp3.1\Power Monitoring.Views.dll
+F:\Power Monitoring\bin\Debug\netcoreapp3.1\Power Monitoring.Views.pdb
+F:\Power Monitoring\obj\Debug\netcoreapp3.1\Power Monitoring.csprojAssemblyReference.cache
+F:\Power Monitoring\obj\Debug\netcoreapp3.1\Power Monitoring.AssemblyInfoInputs.cache
+F:\Power Monitoring\obj\Debug\netcoreapp3.1\Power Monitoring.AssemblyInfo.cs
+F:\Power Monitoring\obj\Debug\netcoreapp3.1\Power Monitoring.csproj.CoreCompileInputs.cache
+F:\Power Monitoring\obj\Debug\netcoreapp3.1\Power Monitoring.MvcApplicationPartsAssemblyInfo.cache
+F:\Power Monitoring\obj\Debug\netcoreapp3.1\Power Monitoring.RazorAssemblyInfo.cache
+F:\Power Monitoring\obj\Debug\netcoreapp3.1\Power Monitoring.RazorAssemblyInfo.cs
+F:\Power Monitoring\obj\Debug\netcoreapp3.1\Power Monitoring.TagHelpers.input.cache
+F:\Power Monitoring\obj\Debug\netcoreapp3.1\Power Monitoring.TagHelpers.output.cache
+F:\Power Monitoring\obj\Debug\netcoreapp3.1\Power Monitoring.RazorCoreGenerate.cache
+F:\Power Monitoring\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+F:\Power Monitoring\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\Power Monitoring\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\Power Monitoring\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\Power Monitoring\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Power Monitoring\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Power Monitoring\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Power Monitoring\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Power Monitoring\obj\Debug\netcoreapp3.1\Power Monitoring.RazorTargetAssemblyInfo.cache
+F:\Power Monitoring\obj\Debug\netcoreapp3.1\Power Monitoring.RazorTargetAssemblyInfo.cs
+F:\Power Monitoring\obj\Debug\netcoreapp3.1\Power Monitoring.Views.pdb
+F:\Power Monitoring\obj\Debug\netcoreapp3.1\staticwebassets\Power Monitoring.StaticWebAssets.Manifest.cache
+F:\Power Monitoring\obj\Debug\netcoreapp3.1\staticwebassets\Power Monitoring.StaticWebAssets.xml
+F:\Power Monitoring\obj\Debug\netcoreapp3.1\Power Monitoring.dll
+F:\Power Monitoring\obj\Debug\netcoreapp3.1\Power Monitoring.pdb
+F:\Power Monitoring\obj\Debug\netcoreapp3.1\Power Monitoring.genruntimeconfig.cache
+F:\Power Monitoring\obj\Debug\netcoreapp3.1\Power Monitoring.csproj.CopyComplete
