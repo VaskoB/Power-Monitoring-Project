@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Power Monitoring\\Power Monitoring.csproj": {}
+    "C:\\Users\\vyotz\\OneDrive\\Desktop\\PowerMonitoring\\Power Monitoring.csproj": {}
   },
   "projects": {
-    "F:\\Power Monitoring\\Power Monitoring.csproj": {
+    "C:\\Users\\vyotz\\OneDrive\\Desktop\\PowerMonitoring\\Power Monitoring.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Power Monitoring\\Power Monitoring.csproj",
+        "projectUniqueName": "C:\\Users\\vyotz\\OneDrive\\Desktop\\PowerMonitoring\\Power Monitoring.csproj",
         "projectName": "Power Monitoring",
-        "projectPath": "F:\\Power Monitoring\\Power Monitoring.csproj",
-        "packagesPath": "C:\\Users\\Vasko\\.nuget\\packages\\",
-        "outputPath": "F:\\Power Monitoring\\obj\\",
+        "projectPath": "C:\\Users\\vyotz\\OneDrive\\Desktop\\PowerMonitoring\\Power Monitoring.csproj",
+        "packagesPath": "C:\\Users\\vyotz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vyotz\\OneDrive\\Desktop\\PowerMonitoring\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Vasko\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\vyotz\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -40,6 +40,12 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.1.14, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
